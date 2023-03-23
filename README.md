@@ -25,3 +25,5 @@
 
 ### Testing Documentation 🤔
 <a href="https://github.com/MCVoloshina/collectionspostman">Postman Collections</a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCVoloshina&theme=tokyonight&show_icons=true)](https://github.com/MCVoloshina/github-readme-stats)
