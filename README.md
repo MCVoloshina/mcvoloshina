@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/MCVoloshina/mcvoloshina/blob/main/assets/banner.png)]
 
 About me
 
