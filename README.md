@@ -1,6 +1,10 @@
 ![Header](https://github.com/MCVoloshina/mcvoloshina/blob/main/assets/header.png)
 
 ## I am a junior QA engineer and currently looking for work 🌱✨
+### Contacts
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/voloshich)
+![voloshina_mp@mail.ru](https://img.shields.io/badge/-voloshina_mp@mail.ru-000000?style=for-the-badge&logo=mail)
+
 
 My CV
 
