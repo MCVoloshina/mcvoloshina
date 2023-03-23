@@ -1,6 +1,6 @@
 ![Header](https://github.com/MCVoloshina/mcvoloshina/blob/main/assets/header.png)
 
-About me
+## I am a junior QA engineer and currently looking for work 🌱✨
 
 My CV
 
