@@ -8,8 +8,6 @@
 ### My CV
 <a href="https://drive.google.com/file/d/13coAB5zqSXEofF_LJYTz5u-4lfeFGjVh/view?usp=sharing">Link to my CV</a>
 
-Education
-
 ### Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL)
@@ -25,4 +23,4 @@ Education
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS)
 ![YouTrack](https://img.shields.io/badge/-YouTrack-000000?style=for-the-badge&logo=YouTrack)
 
-Testing Documentation
+### Testing Documentation
