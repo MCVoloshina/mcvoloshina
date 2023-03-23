@@ -1,14 +1,14 @@
 ![Header](https://github.com/MCVoloshina/mcvoloshina/blob/main/assets/header.png)
 
 ## I am a junior QA engineer and currently looking for work 🌱✨
-### Contacts
+### Contacts 📫
 [![Telegram](https://img.shields.io/badge/-Telegram-BD9FE6?style=for-the-badge&logo=telegram)](https://t.me/voloshich)
 [![voloshina_mp@mail.ru](https://img.shields.io/badge/-voloshina_mp@mail.ru-BD9FE6?style=for-the-badge&logo=mail)](mailto:voloshina_mp@mail.ru)
 
-### My CV
+### My CV ⚡
 <a href="https://drive.google.com/file/d/13coAB5zqSXEofF_LJYTz5u-4lfeFGjVh/view?usp=sharing">Link to my CV</a>
 
-### Languages and Tools
+### Languages and Tools 🔭
 ![Postman](https://img.shields.io/badge/-Postman-BD9FE6?style=for-the-badge&logo=postman)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-BD9FE6?style=for-the-badge&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-BD9FE6?style=for-the-badge&logo=MySQL)
